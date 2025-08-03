@@ -13,9 +13,5 @@ This project compares the profitability of a two-stock portfolio (Microsoft and 
 - **Buy-and-Hold**: 10% return, Sharpe ratio of 0.75.
 - Actor-Critic showed better resilience during market crashes.
 
-## Future Work
-- Diversify with multi-sector stocks and bonds.
-- Explore ensemble methods for improved performance.
-
 ## Technologies
 - Python, Reinforcement Learning (Actor-Critic), Yahoo Finance API.
